@@ -1,0 +1,7 @@
+build_size,skew,policy,actual_fine_chunks,configured_budget,total_tasks,selected_partitions,candidates
+1000000,0.0,novelty_budgeted,0.0,128.0,1024.0,0.0,0.0
+1000000,0.0,novelty_packed,0.0,128.0,1024.0,0.0,0.0
+1000000,0.75,novelty_budgeted,128.0,128.0,1143.0,9.0,9.0
+1000000,0.75,novelty_packed,0.0,128.0,1024.0,0.0,9.0
+1000000,1.5,novelty_budgeted,128.0,128.0,1123.0,29.0,29.0
+1000000,1.5,novelty_packed,128.0,128.0,267.0,29.0,29.0

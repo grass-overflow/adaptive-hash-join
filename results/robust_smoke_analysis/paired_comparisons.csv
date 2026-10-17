@@ -1,0 +1,9 @@
+skew,measurement,method,baseline,independent_seed_count,paired_timed_comparisons,mean_seed_level_improvement_pct,bootstrap_95_low_pct,bootstrap_95_high_pct,correct_rows
+1.5,end_to_end_ms,novelty_packed,static,1,1,53.670049563370306,,,1
+1.5,end_to_end_ms,novelty_packed,dynamic,1,1,14.466230936819166,,,1
+1.5,end_to_end_ms,novelty_packed,paper_fine,1,1,11.616389013957678,,,1
+1.5,end_to_end_ms,novelty_packed,novelty_budgeted,1,1,40.777167682374944,,,1
+1.5,probe_ms,novelty_packed,static,1,1,26.419753086419757,,,1
+1.5,probe_ms,novelty_packed,dynamic,1,1,64.87229862475444,,,1
+1.5,probe_ms,novelty_packed,paper_fine,1,1,60.86671043992121,,,1
+1.5,probe_ms,novelty_packed,novelty_budgeted,1,1,69.66406515100103,,,1
